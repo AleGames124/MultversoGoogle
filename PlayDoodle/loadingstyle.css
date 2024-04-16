@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(54, 138, 103); 
+}
+
+#carouselExampleIndicators{
+    background-color: rgb(107, 172, 145);
+    border-radius: 15px;
+    width: 90%;
+    margin-left: 5%;
+}
+
+#id2{
+    margin-left: 22%;
+    width: 55%;
+    height: 500px;
+    border-top: 1px solid rgb(255, 255, 255);
+    border-right: 2px solid rgb(255, 255, 255);
+    border-left: 2px solid rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+#id3{
+    margin-left: 17%;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#id10{
+    margin-left: 17%;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#id5{
+    border-radius: 11px;
+    border: 3px solid rgb(147, 187, 170);
+}
+
+#prev{
+    border-right: 2px solid rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+
+#next{
+    border-left: 2px solid rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+#id7{
+    margin-left: 42%;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+#logoid{
+    width: 9%;
+    margin-left: 43%;
+    background-color: rgb(205, 224, 216);
+    border: 3px solid rgb(145, 189, 171);
+    border-radius: 15px;
+}
+
+#logoid1{
+    width: 10%;
+    margin-left: 43%;
+    background-color: rgb(205, 224, 216);
+    border: 3px solid rgb(145, 189, 171);
+    border-radius: 15px;
+}
+
+#Article{
+    background-color: rgb(107, 172, 145);
+    border-radius: 15px;
+    width: 100%;
+}
+
+#title1{
+    margin-left: 42%; 
+}
+
+#title2{
+    margin-left: 15%; 
+}
+
+#search{
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(145, 189, 171);
+    border-radius: 5px;
+}
+
+#hr1{
+    border-top: 3px solid rgb(107, 172, 145);
+    border-bottom: 7px solid rgb(107, 172, 145);
+}
