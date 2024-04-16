@@ -1,0 +1,139 @@
+body{
+    background-color: rgb(190, 255, 255);
+}
+
+#articlebar{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+}
+
+#logo1{
+    width: 1.5%;
+}
+
+#logo2{
+    width: 20%;
+    margin-left: 5%;
+}
+
+#imagepost{
+    width: 20%;
+}
+
+#ico{
+    width: 11%;
+}
+
+#img{
+    width: 99%;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#button{
+    margin-left: 7%;
+    color: rgb(28, 51, 80);
+    font-size: 157%;
+    border-radius: 30%;
+}
+
+#button2{
+    margin-left: 7%;
+    color: rgb(0, 0, 0);
+    font-size: 117%;
+    border-radius: 30%;
+}
+
+#button3{
+    margin-left: 7%;
+    color: rgb(0, 0, 0);
+    font-size: 157%;
+    border-radius: 30%;
+}
+
+#button4{
+    background-color: rgb(224, 252, 252);
+    margin-left: 45%;
+    color: rgb(0, 0, 0);
+    font-size: 157%;
+    border-radius: 30%;
+    border: 3px solid rgb(224, 252, 252);
+}
+
+#iconavbar{
+    width: 1%;
+}
+
+#article1{
+    margin-left: 2%;
+    background-color: rgb(224, 252, 252);
+    width: 10%;
+    border-radius: 15%;
+    display: inline-table;
+}
+
+#article2{
+    margin-left: 2%;
+    width: 43%;
+    border-radius: 4%;
+    display: inline-table;
+}
+
+#article3{
+    background-color: rgb(224, 252, 252);
+    width: 550px;
+    border-radius: 4%;
+    margin-left: 2%;
+}
+
+#article4{
+    background-color: rgb(255, 255, 255);
+    border-radius: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    border: 3px solid rgb(85, 85, 85);
+}
+
+#perfil{
+    width: 5.5%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 100%;
+    margin-left: 2%;
+}
+
+#perfil2{
+    width: 15%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 100%
+}
+
+#perfil3{
+    width: 9.5%;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(213, 238, 238);
+    border-radius: 20%;
+    margin-left: 2%;
+}
+
+#name{
+    color: rgb(2, 2, 2);
+    font-size: 130%;
+}
+
+#certified{
+    width: 3.1%;
+}
+
+#textbox{
+    margin-left: 92%;
+    background-color: rgb(85, 85, 85);
+    color: rgb(255, 255, 255);
+    font-size: 79%;
+    border-radius: 15%;
+}

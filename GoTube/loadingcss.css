@@ -1,0 +1,62 @@
+#video{
+    background-color: black;
+    width: 70%;
+    margin-left: 15%;
+    border-radius: 15px;
+}
+
+#title{
+    margin-top: 1%;
+    margin-left: 16%; 
+}
+
+#block{
+    background-color: rgb(207, 207, 207);
+    border: 2px solid rgb(228, 228, 228);
+    border-radius: 15px;
+}
+
+#iframe{
+    height: 100%;
+    width: 40%;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(129, 129, 129);
+    border-radius: 15px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#scrol{
+    margin-left: 9%;
+    width: 80%;
+}
+
+#article{
+    background-color: rgb(207, 207, 207);
+    border: 2px solid rgb(228, 228, 228);
+    border-radius: 15px;
+    margin-left: 9%;
+    width: 80%;
+}
+
+#buttonPrevious{
+    background-color: rgb(165, 165, 165);
+    border-radius: 15px;
+    border-right: 2px solid rgb(255, 255, 255);
+}
+
+#buttonNext{
+    background-color: rgb(165, 165, 165);
+    border-radius: 15px;
+    border-left: 2px solid rgb(255, 255, 255);
+}
+
+#search{
+    border-radius: 15px;
+}
+
+#highlightvideo{
+    width: 100%;
+}
