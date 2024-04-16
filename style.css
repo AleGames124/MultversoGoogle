@@ -1,0 +1,125 @@
+article{
+    border: 2px solid black;
+}
+
+#block1{
+    width: 300px;
+    height: 90px;
+    border: 0px solid black;
+    background-color: rgb(126, 233, 197);
+    display: inline-block;
+}
+
+#block2{
+    width: 300px;
+    height: 90px;
+    border: 0px solid black;
+    background-color: rgb(108, 202, 171);
+    display: inline-block;
+}
+
+#block3{
+    width: 300px;
+    height: 90px;
+    border: 0px solid black;
+    background-color: rgb(83, 151, 128);
+    display: inline-block;
+}
+
+#block{
+    width: 300px;
+    height: 90px;
+    border: 0px solid black;
+    background-color: rgb(119, 137, 165);
+    display: inline-block;
+}
+
+#articleold{
+    border-top: 2px solid rgb(158, 158, 158);
+    border-left: 2px solid rgb(110, 110, 110);
+    border-bottom: 2px solid rgb(0, 0, 0);
+    border-right: 2px solid rgb(56, 56, 56);
+}
+
+#box_center{
+    margin-left: 45%;
+}
+
+#logo1{
+    width: 5%;
+}
+
+#logo2{
+    width: 30%;
+}
+
+#logo3{
+    width: 30%;
+    margin-left: 35%;
+}
+
+#logo4{
+    width: 30%;
+    margin-left: 30%;
+}
+
+#logo3_center2010{
+    width: 30%;
+    margin-left: 35%;
+}
+
+#logo4_center2010{
+    width: 30%;
+    margin-left: 30%;
+}
+
+#logo3_center1998{
+    width: 30%;
+    margin-left: 35%;
+}
+
+#logo4_center1998{
+    width: 30%;
+    margin-left: 30%;
+}
+
+#iconavbar{
+    width: 1%;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+}
+
+#article_center_1998{
+    border: 0px solid black;
+    margin-left: 16%;
+}
+
+#text_2010_center{
+    margin-left: 45.7%;
+}
+
+#text_1998_center{
+    margin-left: 33%;
+}
+
+#Event2010{
+    width: 10%;
+    margin-left: 45%;
+}
+
+#noborder{
+    border: 0px solid black;
+}
